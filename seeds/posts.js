@@ -17,8 +17,8 @@ const postData = [
     user_id: 3
   },
   {
-    title: 'What is socializing?',
-    post_text: 'Gaining someones confidence is easy. Appear open and interested by mimicking their body language and repeating what they say back to them. I just repeat what they say. I was social engineering them. Once trust is established, the social engineer simply offers up information, and the subject will reciprocate: Pets names, kids names, birthdays. Then, that information is entered into a word list generator. Pop it with their hash into John The Ripper, and within minutes, you have their passwords.',
+    title: 'Why Github is important?',
+    post_text: 'It makes it easy to contribute to your open-source projects To be honest, nearly every open-source project uses GitHub to manage its project.',
     user_id: 4
   },
 ];

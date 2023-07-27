@@ -12,7 +12,7 @@ const commentData = [
     post_id: 3
   },
   {
-    comment_text: 'gathering is also scializing',
+    comment_text: 'Github is repository',
     user_id: 2,
     post_id: 4
   },
