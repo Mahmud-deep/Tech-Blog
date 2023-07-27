@@ -19,7 +19,7 @@
     <ul>
         {{#each posts as |post|}}
         <li>
-            {{> post-info post}}
+            {{ post-info post}}
             <a href="/dashboard/edit/{{post.id}}" class="edit-link">Edit Post</a>
         </li>
         {{/each}}

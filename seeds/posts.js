@@ -2,18 +2,18 @@ const { Post } = require('../models');
 
 const postData = [
   {
-    title: 'Sleep is overrated in programming',
-    post_text: 'I was gonna sleep last night, but, uh... I thought I had this solve for this computational trust issue I have been working on, but it turns out, I did not have a solve. But it was too late. I had already drank the whole pot of coffee.',
+    title: 'Why MVC is do important',
+    post_text: 'MVC allows developers to maintain a true separation of concerns, devising their code between the Model layer for data, the View layer for design, and the Controller layer for application logic.',
     user_id: 1
   },
   {
-    title: 'Success',
-    post_text: 'Every time we have gotten a whiff of success, a giant pelican by the name of Fate takes a four-and-a-half pound $4|+ right on top of us.',
+    title: 'Authentication vs. Authorization',
+    post_text: 'There is a difference between authentication and authorization. Authentication means confirming your own identity, whereas authorization means being allowed access to the system.',
     user_id: 2
   },
   {
-    title: 'Security is for the birds',
-    post_text: 'My username is "password" and my password is "password". It was just easier',
+    title: 'Object-Relational Mapping',
+    post_text: 'I have really loved learning about ORMs. It is really simplified the way i create queries in SQL!',
     user_id: 3
   },
   {
