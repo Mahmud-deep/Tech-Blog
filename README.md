@@ -54,6 +54,9 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Links
 
+https://github.com/Mahmud-deep/Tech-Blog
+
+https://mahmud-deep.github.io/Tech-Blog/
 
 ## Review
 
